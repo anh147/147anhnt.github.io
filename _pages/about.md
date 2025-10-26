@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Anh T. Nguyen"
+title: "Anh T. Nguyen - AI Researcher"
 author_profile: true
 redirect_from: 
   - /about/
