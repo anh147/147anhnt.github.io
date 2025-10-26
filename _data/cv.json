@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Anh T. Nguyen",
+    "email": "147anhnt@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://anh147.github.io",
+    "summary": "Junior AI Engineer",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Ha Noi",
+      "countryCode": "VIE",
       "region": ""
     },
     "profiles": [
