@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anh T. Nguyen"
+# title: "Anh T. Nguyen"
 author_profile: true
 redirect_from: 
   - /about/
@@ -44,7 +44,7 @@ Awards
 ======
 <!-- <h2 style="margin-bottom:8px;">Awards</h2> -->
 
-<h2 style="margin-bottom:8px;">Awards</h2>
+<!-- <h2 style="margin-bottom:8px;">Awards</h2> -->
 
 <table style="width:100%; border-collapse:collapse; font-size:15px; line-height:1.5;">
   <tr>
